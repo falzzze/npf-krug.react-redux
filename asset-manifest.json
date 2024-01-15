@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/npf-krug.react-redux/static/css/main.87dbb3cb.css",
+    "main.js": "/npf-krug.react-redux/static/js/main.64c0b2db.js",
+    "index.html": "/npf-krug.react-redux/index.html",
+    "main.87dbb3cb.css.map": "/npf-krug.react-redux/static/css/main.87dbb3cb.css.map",
+    "main.64c0b2db.js.map": "/npf-krug.react-redux/static/js/main.64c0b2db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87dbb3cb.css",
+    "static/js/main.64c0b2db.js"
+  ]
+}
